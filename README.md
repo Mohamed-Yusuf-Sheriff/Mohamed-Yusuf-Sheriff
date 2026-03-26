@@ -14,6 +14,8 @@ Email Me 👉 ✉️ **ummohamedyusufsheriff@gmail.com** For Collaboration/Proje
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ummohamedyusufsheriff@gmail.com) 
+[![Linkedin](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://www.linkedin.com/in/ummohamedyusufsheriff12706/) 
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mohamed-Yusuf-Sheriff&theme=radical&no-frame=false&no-bg=true&margin-w=4)
